@@ -1,0 +1,69 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+
+# npm
+npm-debug.log*
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Python cache
+# =========================
+*.egg-info/
+build/
+dist/
+
+# =========================
+# Hyperledger Fabric
+# =========================
+wallet/
+# Experimental ML models
+archive_models/
