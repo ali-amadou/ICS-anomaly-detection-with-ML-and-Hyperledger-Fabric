@@ -178,7 +178,7 @@ The smart contract provides:
 Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ali-amadou/ICS-anomaly-detection-with-ML-and-Hyperledger-Fabric
 cd Project_IA_Blockchain_ICS_Anomaly
 ```
 
