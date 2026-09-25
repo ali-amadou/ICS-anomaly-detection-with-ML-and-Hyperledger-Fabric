@@ -78,7 +78,7 @@ def start_receiver():
                     if alert.prediction == "Attack":
 
                         print("ATTACK DETECTED")
-
+                        print(f"Attack Type: {alert.attack_type}")
                         alert_id = blockchain.submit_alert(alert)
 
                         print(
